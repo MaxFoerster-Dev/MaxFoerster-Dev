@@ -1,17 +1,50 @@
+<p align="center">
+  <img src="Images/maximilian_foerster_banner.svg" alt="Maximilian Förster — GitHub Profile Banner" width="100%" />
+</p>
 
+<h1 align="center">Hi, I'm Maximilian Förster! 👋</h1>
 
-# Hi there, I'm Maximilian Förster 👋
+<p align="center">
+  <em>Developer · Model Rocketry Enthusiast · PCB Designer</em>
+</p>
 
-Welcome to my GitHub profile! I am a passionate developer focused on building clean, efficient, and impactful software solutions.
+## 🙋‍♂️ About Me
 
-## 🚀 About Me
-* 💼 **Current Focus:** Software engineering and full-stack development.
-* 🌱 **Learning:** Exploring advanced system architecture and modern frameworks.
-* ⚡ **Fun Fact:** I love solving complex puzzles and turning caffeine into clean code.
+- 📍 Based in Bavaria, Germany
+- 🎂 13 years old
+- 💻 I enjoy programming and building things
+- 🚀 Interested in model rocketry and electronics
 
 ## 🛠️ Tech Stack
-* **Languages:** Python, JavaScript, TypeScript, HTML5, CSS3
-* **Frameworks & Libraries:** React, Node.js, Express, Django
-* **Tools & DevOps:** Git, GitHub, Docker, VS Code
 
+### Frontend
+<p>
+  <img src="Images/js.png" alt="JavaScript" height="48" />
+  &nbsp;&nbsp;
+  <img src="Images/html.png" alt="HTML" height="48" />
+  &nbsp;&nbsp;
+  <img src="Images/CSS.png" alt="CSS" height="48" />
+</p>
 
+### Backend
+<p>
+  <img src="Images/Python.png" alt="Python" height="48" />
+</p>
+
+### Dev Tools
+<p>
+  <img src="Images/git.png" alt="Git" height="48" />
+</p>
+
+## 🎯 Hobbies
+
+- 🏊 Swimming
+- 💻 Programming
+- 🚀 Model rocketry
+- 🔌 PCB design
+
+---
+
+<p align="center">
+  <em>Always learning, experimenting, and building something new!</em>
+</p>

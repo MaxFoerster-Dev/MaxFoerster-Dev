@@ -1,0 +1,51 @@
+<svg
+  width="854"
+  height="150"
+  viewBox="0 0 854 150"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  role="img"
+  aria-labelledby="title desc">
+  <title id="title">Maximilian Förster</title>
+  <desc id="desc">Animiertes Banner mit zwei grünen Wellen und braunem Schriftzug.</desc>
+  <style>
+    .name {
+      font-size: 48px;
+      font-weight: 700;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      fill: #99621E;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      animation: fadeIn 1.2s ease-in-out forwards;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+  </style>
+  <g>
+    <path fill="#2C5530" opacity="0.92">
+      <animate attributeName="d" dur="20s" repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcMode="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        values="
+          M0 0 L0 70 Q213.5 110 427 80 T854 105 L854 150 L0 150 Z;
+          M0 0 L0 95 Q213.5 110 427 90 T854 80 L854 150 L0 150 Z;
+          M0 0 L0 115 Q213.5 85 427 115 T854 80 L854 150 L0 150 Z;
+          M0 0 L0 70 Q213.5 110 427 80 T854 105 L854 150 L0 150 Z"/>
+    </path>
+    <path fill="#739E82" opacity="0.92">
+      <animate attributeName="d" dur="20s" repeatCount="indefinite" begin="-10s"
+        keyTimes="0;0.333;0.667;1"
+        calcMode="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        values="
+          M0 0 L0 85 Q213.5 130 427 100 T854 110 L854 150 L0 150 Z;
+          M0 0 L0 100 Q213.5 70 427 70 T854 90 L854 150 L0 150 Z;
+          M0 0 L0 95 Q213.5 75 427 100 T854 115 L854 150 L0 150 Z;
+          M0 0 L0 85 Q213.5 130 427 100 T854 110 L854 150 L0 150 Z"/>
+    </path>
+  </g>
+  <text x="427" y="45" class="name">Maximilian Förster</text>
+</svg>
