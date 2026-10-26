@@ -13,7 +13,7 @@
 - 📍 Based in Bavaria, Germany
 - 🎂 13 years old
 - 💻 I enjoy programming and building things
-- 🚀 Interested in model rocketry and electronics
+- 🚀 Interested in model rocketry and electronics (Check out my current project: [Buzzard-01](https://github.com/MaxFoerster-Dev/Buzzard-01))
 
 ## 🛠️ Tech Stack
 
