@@ -12,6 +12,13 @@
   <img src="https://komarev.com/ghpvc/?username=MaxFoerster-Dev&amp;style=plastic&amp;color=blue" alt="Profile views" />
 </p>
 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MaxFoerster-Dev&amp;layout=compact&amp;theme=github_dark" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=MaxFoerster-Dev&amp;show_icons=true&amp;theme=github_dark" alt="GitHub stats" />
+</p>
+
 ## 🙋‍♂️ About Me
 
 - 📍 Based in Bavaria, Germany
