@@ -6,6 +6,10 @@
 
 <p align="center">
   <em>Developer · Model Rocketry Enthusiast · PCB Designer</em>
+</p>  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaxFoerster-Dev&amp;style=plastic&amp;color=blue" alt="Profile views" />
 </p>
 
 ## 🙋‍♂️ About Me
